@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashslingingslasher-wb
 
-- 👀 I’m interested in: 
+- 👀 I’m interested in
 full stack development, front-end development, cyber security, and UI/UX design.
 
 - 🌱I graduated from the University of British Columbia Okanagan in June 2022 with a Bachelor of Arts double major in Computer Science and English Lit.
